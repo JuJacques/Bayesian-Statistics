@@ -5,7 +5,7 @@
 <h4>Jeu de donn&eacute;es</h4>
         <p>Nous travaillerons avec les dataset suivants :
         <ul>
-            <li><a href="Download/DataSet/ForkLengthData.csv">ForkLengthData.csv</a></li>
+            <li><a href="ForkLengthData.csv">ForkLengthData.csv</a></li>
             <li><a href="Download/DataSet/poidsnaissance.txt">poidsnaissance.txt</a></li>
             <li><a href="Download/DataSet/chirurgie.Rdata">chirurgie.Rdata</a></li>
             <li><a href="Download/DataSet/sepsis.Rdata">sepsis.Rdata</a></li>
