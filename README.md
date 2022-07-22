@@ -3,12 +3,12 @@
 <h4>Préliminaires : logiciels à installer</h4>
         <p>
         <ul>
-            <li>Nous travaillerons avec <a href="https://www.r-project.org" target="new">R</a> (version >= 4) et l'interface <a href="https://www.rstudio.com/products/rstudio/download/" target="new">Rstudio</a></li>
+            <li>Nous travaillerons avec <a href="https://www.r-project.org" target="new">R</a> (version >= 4) via l'interface <a href="https://www.rstudio.com/products/rstudio/download/" target="new">Rstudio</a></li>
             <li>et le logiciel <a href="http://sourceforge.net/projects/mcmc-jags/" target="new">Jags</a></li>
             <li>Nous aurons besoin des packages R suivant :
             <ul>
               <li>rjags (attention, il faut que le logiciel JAGS soit installé avant d'installer ce package sous R)</li>
-              <li>bayess, BayesFactor, BMA, BAS</li>
+              <li>bayess, BayesFactor, BMA, BAS, lars</li>
             </ul>
         </ul>
         </p>
