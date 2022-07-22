@@ -1,4 +1,18 @@
 # Bayesian-Statistics
+
+<h4>Préliminaires : logiciels à installer</h4>
+        <p>
+        <ul>
+            <li>Nous travaillerons avec <a href="https://www.r-project.org" target="new">R</a> (version >= 4) et l'interface <a href="https://www.rstudio.com/products/rstudio/download/" target="new">Rstudio</a></li>
+            <li>et le logiciel <a href="http://sourceforge.net/projects/mcmc-jags/" target="new">Jags</a></li>
+            <li>Nous aurons besoin des packages R suivant :
+            <ul>
+              <li>rjags (attention, il faut que le logiciel JAGS soit installé avant d'installer ce package sous R)</li>
+              <li>bayess, BayesFactor, BMA, BAS</li>
+            </ul>
+        </ul>
+        </p>
+
 <h4>Support de formation</h4>
         <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés</p>
         <!--<p>Les notes manuscrites de cours sont <a href="" target="new">ici</a></p> -->
@@ -51,13 +65,6 @@
         </ul>
         </p>
         
-<h4>Logiciels à installer</h4>
-        <p>
-        <ul>
-            <li><a href="https://www.r-project.org" target="new">R</a> et <a href="https://www.rstudio.com/products/rstudio/download/" target="new">Rstudio</a></li>
-            <li><a href="http://sourceforge.net/projects/mcmc-jags/" target="new">Jags</a></li>
-        </ul>
-        </p>
                     
 <h4>Bibliographie</h4>
           <p>
