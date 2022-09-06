@@ -15,7 +15,7 @@
 
 <h4>Support de formation</h4>
         <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés</p>
-        <!--<p>Les notes manuscrites de cours sont <a href="" target="new">ici</a></p> -->
+        <p>Les notes manuscrites de cours sont <a href="2022-09-05-NotesFormationStatBayes.pdf" target="new">ici</a></p>
 <h4>Jeu de donn&eacute;es</h4>
         <p>Nous travaillerons avec les dataset suivants :
         <ul>
@@ -29,10 +29,10 @@
 <h4>Corrections exercices</h4>
         <p> Les corrections seront déposées au fur et à mesure :
         <ul>
-           <li>Exercices préliminaires :  <!--<a href="Statistique-Bayesienne-Exercices-Prelim.pdf" target="new">correction</a> --></li>
+           <li>Exercices préliminaires :  <a href="Exercices-Prelim.pdf" target="new">correction</a></li>
            <li>Exercices longeur saumons : <!--<a href="Statistique-Bayesienne-Exercices-Poissons.pdf" target="new">correction</a> --></li>
-           <li>Exercices Monte-Carlo : <!--<a href="Statistique-Bayesienne-Exercices-MonteCarlo.pdf" target="new">correction</a> --></li>
-           <li>Exercices tests :  <!--<a href="Statistique-Bayesienne-Exercices-Tests.pdf" target="new">correction</a> --></li>
+           <li>Exercices Monte-Carlo : <a href="Exercices-MonteCarlo.pdf" target="new">correction</a></li>
+           <li>Exercices tests :  <a href="PoidsNaissance.pdf" target="new">correction test poids naissance</a></li>
            <li>Exercices régression : <!--<a href="Statistique-Bayesienne-Exercices-Regression.pdf" target="new">correction</a> --></li>
            <li>Exercices régression Prostate :  <!--<a href="Statistique-Bayesienne-Exercices-Prostate.pdf" target="new">correction</a> --></li>
           <li>Exercices sur les modèles hierarchiques</li>
