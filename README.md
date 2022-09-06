@@ -14,8 +14,8 @@
         </p>
 
 <h4>Support de formation</h4>
-        <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés</p>
-        <p>Les notes manuscrites de cours sont <a href="2022-09-05-NotesFormationStatBayes.pdf" target="new">ici</a></p>
+        <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés, et la <a href="Statistique-Bayesienne-annoté.pdf" target="new">version annotée</a> pendant la formation </p>
+        <p>Les notes manuscrites de cours sont <a href="2022-09-NotesFormationStatBayes.pdf" target="new">ici</a></p>
 <h4>Jeu de donn&eacute;es</h4>
         <p>Nous travaillerons avec les dataset suivants :
         <ul>
@@ -30,36 +30,36 @@
         <p> Les corrections seront déposées au fur et à mesure :
         <ul>
            <li>Exercices préliminaires :  <a href="Exercices-Prelim.pdf" target="new">correction</a></li>
-           <li>Exercices longeur saumons : <!--<a href="Statistique-Bayesienne-Exercices-Poissons.pdf" target="new">correction</a> --></li>
+           <li>Exercices longeur saumons : <a href="Exercices-Poissons.pdf" target="new">correction</a> </li>
            <li>Exercices Monte-Carlo : <a href="Exercices-MonteCarlo.pdf" target="new">correction</a></li>
-           <li>Exercices tests :  <a href="PoidsNaissance.pdf" target="new">correction test poids naissance</a></li>
-           <li>Exercices régression : <!--<a href="Statistique-Bayesienne-Exercices-Regression.pdf" target="new">correction</a> --></li>
-           <li>Exercices régression Prostate :  <!--<a href="Statistique-Bayesienne-Exercices-Prostate.pdf" target="new">correction</a> --></li>
+           <li>Exercices tests :  <a href="Exercices-Tests.pdf" target="new">correction test poids naissance</a></li>
+           <li>Exercices régression : <a href="Exercices-Regression.pdf" target="new">correction</a> </li>
+           <li>Exercices régression Prostate :  <a href="Exercices-Prostate.pdf" target="new">correction</a></li>
           <li>Exercices sur les modèles hierarchiques</li>
            <ul>
-              <li>Poids de naissance : <!--<a href="PoidsNaissance.pdf">correction</a>--></li>
+              <li>Poids de naissance : <a href="PoidsNaissance.pdf">correction</a></li>
               <ul>
                                           <li>code JAGS : <a href="modelepoidsnaissance.txt">modelepoidsnaissance.txt</a></li>
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance3.txt">modelepoidsnaissance3.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance4.txt">modelepoidsnaissance4.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>-->
+                                       <li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance3.txt">modelepoidsnaissance3.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance4.txt">modelepoidsnaissance4.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>
               </ul>
-              <li>Données chirurgie : <!--<a href="Statistique-Bayesienne-Chirurgie.pdf">correction</a>--></li>
+              <li>Données chirurgie : <a href="Chirurgie.pdf">correction</a></li>
               <ul>
-                                      <!--<li>code JAGS : <a href="modelechirurgie.txt">modelechirurgie.txt</a></li>-->
-                                      <!--<li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>-->
-                                      <!--<li>code JAGS : <a href="modelechirurgie3.txt">modelechirurgie3.txt</a></li>-->
+                                      <li>code JAGS : <a href="modelechirurgie.txt">modelechirurgie.txt</a></li>
+                                      <li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>
+                                      <li>code JAGS : <a href="modelechirurgie3.txt">modelechirurgie3.txt</a></li>
               </ul>
-              <li>Méta analyse : <!--<a href="Statistique-Bayesienne-MetaAnalyse.pdf">correction</a></li>-->
+              <li>Méta analyse : <a href="MetaAnalyse.pdf">correction</a></li>
               <ul>
-                                      <!--<li>code JAGS : <a href="metaanalyse.txt">metaanalyse.txt</a></li>-->
-                                      <!--<li>code JAGS : <a href="metaanalyse2.txt">metaanalyse2.txt</a></li>-->
+                                      <li>code JAGS : <a href="metaanalyse.txt">metaanalyse.txt</a></li>
+                                      <li>code JAGS : <a href="metaanalyse2.txt">metaanalyse2.txt</a></li>
               </ul>
-              <li>Analyse Capture-Mark-Recapture : <!--<a href="capture-mark-recapture.pdf">correction</a></li>-->
+              <li>Analyse Capture-Mark-Recapture : <a href="capture-mark-recapture.pdf">correction</a></li>
               <ul>
-                                      <!--<li><a href="CMR.txt">CMR.txt</a></li>-->
+                                      <li><a href="CMR.txt">CMR.txt</a></li>
               </ul>
            </ul>
         </ul>
