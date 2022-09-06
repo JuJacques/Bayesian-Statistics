@@ -1,0 +1,32 @@
+model { 
+ for(i in 1 : N)
+      {
+        y1[i] ~ dbin(pi1[i],nu[i])
+	y5[i] ~ dbin(pi2[i],y4[i])
+	nm[i]=max(0,nu[i]-y1[i])
+        	y6[i] ~ dbin(pi2[i],nm[i])
+	pi1[i]~dbeta(a1,b1)
+	pi2[i]~dbeta(a2,b2)
+	lambda[i]~dgamma(mu_nu, nu_nu)
+	nu[i]~dpois(lambda[i])
+      }
+	
+	mu1 ~ dbeta(1.5,1.5)
+      	logu1 ~ dunif(0,10)
+      	u1=exp(logu1)
+	a1=mu1*u1
+	b1=(1-mu1)*u1
+      
+      	mu2 ~ dbeta(1.5,1.5)
+      	logu2 ~ dunif(0,10)
+      	u2=exp(logu2)
+	a2=mu2*u2
+	b2=(1-mu2)*u2
+         
+    	mu3 ~ dunif(1,3000)
+	logs3 ~ dunif(1,12)
+	s3=exp(logs3)
+	mu_nu=mu3*mu3/s3
+	nu_nu=mu3/s3
+         
+}
