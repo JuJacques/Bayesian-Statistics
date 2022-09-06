@@ -1,0 +1,11 @@
+model {
+for (s in 1:N){
+  for (a in 1:2){
+	y[s,a] ~ dbin(p[s,a], n[s,a])
+	logit(p[s,a]) <- alpha[s] + delta[a]
+  }
+  alpha[s] ~ dnorm(0, 0.01) 
+}
+delta[1] <- 0
+delta[2] ~ dnorm(0, 0.01)
+}

@@ -1,0 +1,6 @@
+model {
+  for (i in 1:N){
+	y[i] ~ dbin(theta, n[i]) 
+  }
+  theta ~ dbeta(1, 1)
+}

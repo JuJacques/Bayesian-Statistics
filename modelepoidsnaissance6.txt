@@ -1,0 +1,12 @@
+model { 
+ for(i in 1 : N)
+      {
+        poids[i] ~ dnorm(mu[i], tau)
+        mu[i] <- moyennes[sexe[i]] + d * fumeur[i]
+      }
+      d ~ dunif(-500,500)
+      moyennes[1] ~ dunif(2500, 5000)
+      moyennes[2] ~ dunif(2500, 5000)
+      tau <- 1/(sigma^2)
+      sigma ~ dunif(200, 800)
+}
