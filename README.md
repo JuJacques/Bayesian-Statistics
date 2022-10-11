@@ -14,8 +14,8 @@
         </p>
 
 <h4>Support de formation</h4>
-        <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés, et la <a href="Statistique-Bayesienne-annoté.pdf" target="new">version annotée</a> pendant la formation </p>
-        <p>Les notes manuscrites de cours sont <a href="2022-09-NotesFormationStatBayes.pdf" target="new">ici</a></p>
+        <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés<!--, et la <a href="Statistique-Bayesienne-annoté.pdf" target="new">version annotée</a> pendant la formation --></p>
+        <!--<p>Les notes manuscrites de cours sont <a href="2022-09-NotesFormationStatBayes.pdf" target="new">ici</a></p>-->
 <h4>Jeu de donn&eacute;es</h4>
         <p>Nous travaillerons avec les dataset suivants :
         <ul>
@@ -26,7 +26,7 @@
             <li><a href="CMRsurvey.xlsx">CMRsurvey.xlsx</a> et l'<a href="CMRsurvey-Analysis.pdf">analyse </a></li>
         </ul>
         </p>
-<h4>Corrections exercices</h4>
+<!--<h4>Corrections exercices</h4>
         <p> Les corrections seront déposées au fur et à mesure :
         <ul>
            <li>Exercices préliminaires :  <a href="Exercices-Prelim.pdf" target="new">correction</a></li>
@@ -63,7 +63,7 @@
               </ul>
            </ul>
         </ul>
-        </p>
+        </p>-->
         
                     
 <h4>Bibliographie</h4>
