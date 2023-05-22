@@ -37,7 +37,7 @@
            <li>Exercices régression Prostate :  <!--<a href="Exercices-Prostate.pdf" target="new">correction</a>--></li>
           <li>Exercices sur les modèles hierarchiques</li>
            <ul>
-              <li>Poids de naissance : <a href="PoidsNaissance.pdf">correction</a></li>
+              <li>Poids de naissance : <!--<a href="PoidsNaissance.pdf">correction</a>--></li>
               <ul>
                                           <li>code JAGS : <a href="modelepoidsnaissance.txt">modelepoidsnaissance.txt</a></li>
                                        <!--<li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
@@ -46,13 +46,13 @@
                                        <li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>
                                        <li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>-->
               </ul>
-              <li>Données chirurgie : <a href="Chirurgie.pdf">correction</a></li>
+              <li>Données chirurgie : <!--<a href="Chirurgie.pdf">correction</a>--></li>
               <ul>
                                       <!--<li>code JAGS : <a href="modelechirurgie.txt">modelechirurgie.txt</a></li>
                                       <li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>
                                       <li>code JAGS : <a href="modelechirurgie3.txt">modelechirurgie3.txt</a></li>-->
               </ul>
-              <li>Méta analyse : <a href="MetaAnalyse.pdf">correction</a></li>
+              <li>Méta analyse : <!--<a href="MetaAnalyse.pdf">correction</a>--></li>
               <ul>
                                       <!--<li>code JAGS : <a href="metaanalyse.txt">metaanalyse.txt</a></li>
                                       <li>code JAGS : <a href="metaanalyse2.txt">metaanalyse2.txt</a></li>-->
