@@ -57,7 +57,7 @@
                                       <!--<li>code JAGS : <a href="metaanalyse.txt">metaanalyse.txt</a></li>
                                       <li>code JAGS : <a href="metaanalyse2.txt">metaanalyse2.txt</a></li>-->
               </ul>
-              <li>Analyse Capture-Mark-Recapture : <a href="capture-mark-recapture.pdf">correction</a></li>
+              <li>Analyse Capture-Mark-Recapture : <!--<a href="capture-mark-recapture.pdf">correction</a>--></li>
               <ul>
                                       <!--<li><a href="CMR.txt">CMR.txt</a></li>-->
               </ul>
