@@ -1,0 +1,17 @@
+model { 
+ for(i in 1 : N)
+      {
+        poids[i] ~ dnorm(mu[i], tau)
+        mu[i] <- moyennes[sexe[i]] + b * (nbsemaines[i]-nbsemaines.bar)
+        nbsemaines[i]~dnorm(mu2[i],1)
+        mu2[i]<- b3+ b2 * nbcig[i]
+      }
+      b ~ dnorm(150, 0.01)
+      b2 ~ dnorm(0, 0.01)
+      b3 ~ dnorm(0, 0.01)
+      nbsemaines.bar <- mean(nbsemaines)
+      moyennes[1] ~ dunif(2500, 5000)
+      moyennes[2] ~ dunif(2500, 5000)
+      tau <- 1/(sigma^2)
+      sigma ~ dunif(200, 800)
+}
