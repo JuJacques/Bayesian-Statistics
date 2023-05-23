@@ -59,7 +59,7 @@
               </ul>
               <li>Analyse Capture-Mark-Recapture : <a href="capture-mark-recapture.pdf">correction</a></li>
               <ul>
-                                      <li><a href="CMR.txt">CMR.txt</a></li>-->
+                                      <li><a href="CMR.txt">CMR.txt</a></li>
               </ul>
            </ul>
         </ul>
