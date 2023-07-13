@@ -29,22 +29,22 @@
 <h4>Corrections exercices</h4>
         <p> Les corrections seront déposées au fur et à mesure :
         <ul>
-           <li>Exercices préliminaires :  <a href="Exercices-Prelim.pdf" target="new">correction</a></li>
-           <li>Exercices longeur saumons : <a href="Exercices-Poissons.pdf" target="new">correction</a> </li>
-           <li>Exercices Monte-Carlo : <a href="Exercices-MonteCarlo.pdf" target="new">correction</a></li>
-           <li>Exercices tests :  <a href="Exercices-Tests.pdf" target="new">correction</a></li>
-           <li>Exercices régression : a href="Exercices-Regression.pdf" target="new">correction</a> </li>
-           <li>Exercices régression Prostate :  <a href="Exercices-Prostate.pdf" target="new">correction</a></li>
+           <li>Exercices préliminaires :  <!--<a href="Exercices-Prelim.pdf" target="new">correction</a>--></li>
+           <li>Exercices longeur saumons : <!--<a href="Exercices-Poissons.pdf" target="new">correction</a>--> </li>
+           <li>Exercices Monte-Carlo : <!--<a href="Exercices-MonteCarlo.pdf" target="new">correction</a>--></li>
+           <li>Exercices tests :  <!--<a href="Exercices-Tests.pdf" target="new">correction</a>--></li>
+           <li>Exercices régression : <!--<a href="Exercices-Regression.pdf" target="new">correction</a>--> </li>
+           <li>Exercices régression Prostate :  <!--<a href="Exercices-Prostate.pdf" target="new">correction</a>--></li>
           <li>Exercices sur les modèles hierarchiques</li>
            <ul>
-              <li>Poids de naissance : <a href="PoidsNaissance.pdf">correction</a></li>
+              <li>Poids de naissance : <!--<a href="PoidsNaissance.pdf">correction</a></li>
               <ul>
                                           <li>code JAGS : <a href="modelepoidsnaissance.txt">modelepoidsnaissance.txt</a></li>
-                                       <li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
+                                       <!--<li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
                                        <li>code JAGS : <a href="modelepoidsnaissance3.txt">modelepoidsnaissance3.txt</a></li>
                                        <li>code JAGS : <a href="modelepoidsnaissance4.txt">modelepoidsnaissance4.txt</a></li>
                                        <li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>
-                                       <li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>-->
               </ul>
               <li>Données chirurgie : <a href="Chirurgie.pdf">correction</a>--></li>
               <ul>
