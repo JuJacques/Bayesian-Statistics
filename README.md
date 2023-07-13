@@ -46,7 +46,7 @@
                                        <!--<li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>-->
                                        <!--<li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>-->
               </ul>
-              <li>Données chirurgie : <a href="Chirurgie.pdf">correction</a>--></li>
+              <li>Données chirurgie : <!--<a href="Chirurgie.pdf">correction</a>--></li>
               <ul>
                                       <li>code JAGS : <a href="modelechirurgie.txt">modelechirurgie.txt</a></li>
                                       <!--<li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>-->
