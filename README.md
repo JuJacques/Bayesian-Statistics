@@ -31,7 +31,7 @@
         <ul>
            <li>Exercices préliminaires :  <a href="Exercices-Prelim.pdf" target="new">correction</a></li>
            <li>Exercices longeur saumons : <a href="Exercices-Poissons.pdf" target="new">correction</a> </li>
-           <li>Exercices Monte-Carlo : <!--<a href="Exercices-MonteCarlo.pdf" target="new">correction</a>--></li>
+           <li>Exercices Monte-Carlo : <a href="Exercices-MonteCarlo.pdf" target="new">correction</a></li>
            <li>Exercices tests :  <!--<a href="Exercices-Tests.pdf" target="new">correction</a>--></li>
            <li>Exercices régression : <!--<a href="Exercices-Regression.pdf" target="new">correction</a>--> </li>
            <!--<li>Exercices régression Prostate :  <a href="Exercices-Prostate.pdf" target="new">correction</a></li>-->
