@@ -15,7 +15,7 @@
 
 <h4>Support de formation</h4>
         <p>Récupérez les <a href="Statistique-Bayesienne.pdf" target="new">slides</a> qui seront utilisés<!--, et la <a href="Statistique-Bayesienne-annoté.pdf" target="new">version annotée</a> pendant la formation --></p>
-        <!--<p>Les notes manuscrites de la formation sont <a href="2023-05-NotesFormationStatBayes.pdf" target="new">ici</a></p>-->
+        <p>Les notes manuscrites de la formation sont <a href="2023-11-20-Formation Stat Bayesienne.pdf" target="new">ici</a></p>
 <h4>Jeu de donn&eacute;es</h4>
         <p>Nous travaillerons avec les dataset suivants :
         <ul>
