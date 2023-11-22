@@ -34,7 +34,7 @@
            <li>Exercices longeur saumons : <a href="Exercices-Poissons.pdf" target="new">correction</a> </li>
            <li>Exercices Monte-Carlo : <a href="Exercices-MonteCarlo.pdf" target="new">correction</a></li>
            <li>Exercices tests :  <!--<a href="Exercices-Tests.pdf" target="new">correction</a>--></li>
-           <li>Exercices régression : <a href="Exercices-IFPEN.pdf" target="new">correction exercice IFPEN</a> <!--<a href="Exercices-Regression.pdf" target="new">correction</a>--> </li>
+           <li>Exercices régression : <a href="Exercices-IFPEN.pdf" target="new">correction données IFPEN</a> <a href="Exercices-Prostate.pdf" target="new">correction données prostate</a> </li>
            <!--<li>Exercices régression Prostate :  <a href="Exercices-Prostate.pdf" target="new">correction</a></li>-->
           <li>Exercices sur les modèles hierarchiques</li>
            <ul>
