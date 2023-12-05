@@ -38,7 +38,7 @@
            <!--<li>Exercices régression Prostate :  <a href="Exercices-Prostate.pdf" target="new">correction</a></li>-->
           <li>Exercices sur les modèles hierarchiques</li>
            <ul>
-              <li>Poids de naissance : <!--<a href="PoidsNaissance-CETIAT.pdf">correction</a>--></li>
+              <li>Poids de naissance : <a href="PoidsNaissance-2.pdf">correction</a></li>
               <ul>
                                           <li>code JAGS : <a href="modelepoidsnaissance.txt">modelepoidsnaissance.txt</a></li>
                                        <li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
