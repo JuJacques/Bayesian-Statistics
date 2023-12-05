@@ -50,8 +50,8 @@
               <li>Données chirurgie : <a href="Chirurgie.pdf">correction</a></li>
               <ul>
                                       <li>code JAGS : <a href="modelechirurgie.txt">modelechirurgie.txt</a></li>
-                                      <!--<li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>-->
-                                      <!--<li>code JAGS : <a href="modelechirurgie3.txt">modelechirurgie3.txt</a></li>-->
+                                      <li>code JAGS : <a href="modelechirurgie2.txt">modelechirurgie2.txt</a></li>
+                                      <li>code JAGS : <a href="modelechirurgie3.txt">modelechirurgie3.txt</a></li>
               </ul>
               <li>Méta analyse : <!--<a href="MetaAnalyse.pdf">correction</a></li>-->
               <ul>
