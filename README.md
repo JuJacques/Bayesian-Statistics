@@ -41,11 +41,11 @@
               <li>Poids de naissance : <!--<a href="PoidsNaissance-CETIAT.pdf">correction</a>--></li>
               <ul>
                                           <li>code JAGS : <a href="modelepoidsnaissance.txt">modelepoidsnaissance.txt</a></li>
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>-->
-                                       <!-- <li>code JAGS : <a href="modelepoidsnaissance3.txt">modelepoidsnaissance3.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance4.txt">modelepoidsnaissance4.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>-->
-                                       <!--<li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>-->
+                                       <li>code JAGS : <a href="modelepoidsnaissance2.txt">modelepoidsnaissance2.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance3.txt">modelepoidsnaissance3.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance4.txt">modelepoidsnaissance4.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance5.txt">modelepoidsnaissance5.txt</a></li>
+                                       <li>code JAGS : <a href="modelepoidsnaissance6.txt">modelepoidsnaissance6.txt</a></li>
               </ul>
               <li>Données chirurgie :<!-- <a href="Chirurgie.pdf">correction</a></li>-->
               <ul>
