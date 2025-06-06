@@ -29,7 +29,8 @@
         </p>
 
 <h4>Quiz</h4>
-        <p> <a href="quiz-J2.rtf" target="new">quiz J2</a></p>
+        <p> <a href="Quiz-j2.rtf" target="new">quiz J2</a></p>
+        
 <h4>Corrections exercices</h4>
         <p> Les corrections seront déposées au fur et à mesure :
         <ul>
